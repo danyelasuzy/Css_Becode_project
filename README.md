@@ -22,6 +22,6 @@ A responsive web project built based on a **Figma design**, implemented using **
 
 ## 📐 Design Reference
 
-The project was built based on a Figma design. You can view the Figma design [here](#) \_([https://danyelasuzy.github.io/Css_Becode_project/]).
+The project was built based on a Figma design. You can view the Figma design here ([https://danyelasuzy.github.io/Css_Becode_project/]).
 
 ---
