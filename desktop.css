@@ -1,0 +1,80 @@
+@media only screen and (min-width: 1440px) {
+  body {
+    padding: 72px 165px;
+  }
+
+  #burger {
+    display: none;
+  }
+
+  ul {
+    width: 431px;
+    height: 26px;
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    color: #5e607a;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+  }
+
+  .logo {
+    width: 64.09px;
+    height: 39.9px;
+  }
+
+  .container1-2 {
+    display: flex;
+    width: 1110px;
+    height: 511px;
+    gap: 30px;
+  }
+
+  .first-content {
+    width: 730px;
+    height: 584px;
+    display: inline-block;
+  }
+
+  .main-pic {
+    width: 730px;
+    height: 300px;
+    object-fit: cover;
+    object-position: top;
+  }
+
+  .text-content {
+    margin-top: 28px;
+    display: flex;
+  }
+
+  h1 {
+    width: 350px;
+    height: 182px;
+    font-family: Inter;
+    font-size: 56px;
+    font-weight: 800;
+    line-height: 56px;
+    text-align: left;
+    color: #00001a;
+  }
+
+  button {
+    margin-top: 0px;
+    margin-left: 375px;
+    display: inline;
+    translate: -22px -50px;
+  }
+
+  .first-paragraph {
+    width: 350px;
+    height: 104px;
+  }
+
+  .third-content {
+    display: flex;
+    gap: 30px;
+  }
+}
